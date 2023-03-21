@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(3, 9, 66);
+    background-color: rgb(246, 228, 228);
+    font-size: 18px;
+}
+
+.index {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.header {
+    font-size: 30px;
+}
+
+img {
+    height: auto;
+    width: 450px;
+}
+
+.waffle{
+    background-color: rgb(208, 248, 235);
+}
+
+.french-toast{
+    background-color:rgb(206, 241, 206);
+}
+
+.pancake{
+    background-color:rgb(249, 220, 210);
+}
